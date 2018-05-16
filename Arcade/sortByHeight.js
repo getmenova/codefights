@@ -17,3 +17,4 @@ function sortByHeight(arr) {
 }
 var a = [-1, 150, 190, 170, -1, -1, 160, 180];
 sortByHeight(a)
+//get off me nerd!
